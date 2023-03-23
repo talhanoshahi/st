@@ -35,3 +35,4 @@ Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 Patches Applied
 ---------------
 1. [externalpipe - 0.8.4](https://st.suckless.org/patches/externalpipe/)
+2. [scrollback - 20210507-4536f46](https://st.suckless.org/patches/scrollback/)
