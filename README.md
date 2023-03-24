@@ -36,3 +36,4 @@ Patches Applied
 ---------------
 1. [externalpipe - 0.8.4](https://st.suckless.org/patches/externalpipe/)
 2. [scrollback - 20210507-4536f46](https://st.suckless.org/patches/scrollback/)
+3. [externalpipe eternal - 0.8.3](https://st.suckless.org/patches/externalpipe/)
