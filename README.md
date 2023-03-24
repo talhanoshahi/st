@@ -38,3 +38,4 @@ Patches Applied
 2. [scrollback - 20210507-4536f46](https://st.suckless.org/patches/scrollback/)
 3. [externalpipe eternal - 0.8.3](https://st.suckless.org/patches/externalpipe/)
 4. [delkey - 20201112 - 4ef0cbd](https://st.suckless.org/patches/delkey/)
+5. [st-font2 - 0.8.5](https://st.suckless.org/patches/font2/)
