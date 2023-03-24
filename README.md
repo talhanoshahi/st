@@ -40,3 +40,4 @@ Patches Applied
 4. [delkey - 20201112 - 4ef0cbd](https://st.suckless.org/patches/delkey/)
 5. [st-font2 - 0.8.5](https://st.suckless.org/patches/font2/)
 6. [workingdir - 20200317 - 51e19ea](https://st.suckless.org/patches/workingdir/)
+7. [alpha - 20220206 - 0.8.5](https://st.suckless.org/patches/alpha/)
